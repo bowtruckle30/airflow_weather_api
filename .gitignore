@@ -2,3 +2,4 @@ airflow.db
 logs*
 standalone*
 webserver*
+__pycache__*
